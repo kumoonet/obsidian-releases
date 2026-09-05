@@ -51007,5 +51007,12 @@
     "author": "prohui",
     "description": "Plan user journeys with activities, tasks, stories, roles and milestones, link notes, and export to XMind. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "prohui/obsidian-story-map"
+  },
+  {
+    "id": "kumoo-calendar",
+    "name": "Kumoo Calendar",
+    "author": "KuMoo",
+    "description": "日历视图：阳历/农历、黄历宜忌与12时辰吉凶、全库文件活动时间线。Calendar with lunar dates, almanac luck hours, and file activity timeline.",
+    "repo": "https://github.com/kumoonet/obsidian-kumoo-calendar"
   }
 ]
